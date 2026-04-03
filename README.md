@@ -1,0 +1,1 @@
+An interactive data dashboard that visualizes insights using real-world datasets. This project demonstrates data cleaning, analysis, and visualization techniques to extract meaningful patterns and trends.
